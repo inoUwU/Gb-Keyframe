@@ -4,7 +4,7 @@
 
 ## --導入方法--
 
-**_スクリプトは[こちら](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#links---%E3%83%AA%E3%83%B3%E3%82%AF)からダウンロード出来ます！_**
+**_スクリプトは[こちら](https://github.com/inoUwU/Gb-Keyframe/releases/tag/v1.0)からダウンロード出来ます！_**
 
 ..\Adobe\Adobe After Effects[version]\Support Files\Scripts\ScriptUI Panels または  
 ..\Adobe\Adobe After Effects[version]\Support Files\Scripts に配置してください。
