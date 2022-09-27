@@ -3,9 +3,6 @@
 ##### _Adobe After Effects のタイムリマップの keyframe を削除・移動させるスクリプトです。_
 
 ## --導入方法--
-
-**_スクリプトは[こちら](https://github.com/inoUwU/Gb-Keyframe/releases/tag/v1.0)からダウンロード出来ます！_**
-
 ..\Adobe\Adobe After Effects[version]\Support Files\Scripts\ScriptUI Panels または  
 ..\Adobe\Adobe After Effects[version]\Support Files\Scripts に配置してください。
 
